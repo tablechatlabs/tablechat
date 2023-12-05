@@ -7,18 +7,22 @@
 ## Key Features
 ### Production-Ready Text to SQL/BigData statement with AI
 TableChat  allows developers to generate SQL/BigData queries exactly according to their table structures or data schema. It makes AI work with their real data and generate production-ready database/data warehouse operation statements. 
+
 ![image](https://github.com/tablechatlabs/.github/blob/main/screenshots/g-productready.png)
 
 ### Chatting with database
 By utilizing the capabilities of LLMs with interactive dialogue,  complex database operations generating, statements explanation, database statement optimization and even database related code can be easily realized.
+
 ![image](https://github.com/tablechatlabs/.github/blob/main/screenshots/g-chatting.png)
 
 ### Automatic Object Structure Code Generation
 Based on existing table structures, developers can rapidly get customized object structures (for OOP project) code in different programming languages. This can prevent people from table name confusion. This makes the tool useful not only to database administrator but also to all developers.
+
 ![image](https://github.com/tablechatlabs/.github/blob/main/screenshots/g-codegenerate.png)
 
 ### Powerful Data Visualizations and Insights
 TableChat offers built-in data visualization capabilities that allow developers, DBAs, and data analysts to explore and analyze data more effectively. It  can generate visual representations of complex data sets,  providing exciting table display, statistics, and filtering capabilities. This enables informed decision-making based on data insights. Developers can also clearly show the results to colleagues. 
+
 ![image](https://github.com/tablechatlabs/.github/blob/main/screenshots/g-visualization.png)
 
 
