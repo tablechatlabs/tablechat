@@ -1,3 +1,4 @@
+<img src="https://github.com/tablechatlabs/.github/blob/main/screenshots/logo-full.png">
 ## Introduction
 **TableChat** is a SQL/BigData tool powered by generated  AI and designed to assist SQL/BigData development. It leverages the capabilities of AI  LLMs (Large Language Models) to implement the database operations people need. It has features more than ensuring compatibility with different databases,  using text to generate SQL, optimizing operations, and providing excellent data visualizations and insights.
 
@@ -6,6 +7,7 @@
 TableChat  allows developers to generate SQL/BigData queries exactly according to their table structures or data schema. It makes AI work with their real data and generate production-ready database/data warehouse operation statements. 
 <img src="https://user-images.githubusercontent.com/4312068/283025844-cc8e752c-ce31-4f3b-96ef-5760e1fa574d.png">
 
+### Chatting with database
 By utilizing the capabilities of LLMs with interactive dialogue,  complex database operations generating, statements explanation, database statement optimization and even database related code can be easily realized.
 <img src="https://user-images.githubusercontent.com/4312068/283469710-d6ee0f7d-7c8d-455e-a244-5dee693b68a8.png">
 
