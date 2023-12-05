@@ -11,7 +11,6 @@ TableChat  allows developers to generate SQL/BigData queries exactly according t
   
 ### Chatting with database
 By utilizing the capabilities of LLMs with interactive dialogue,  complex database operations generating, statements explanation, database statement optimization and even database related code can be easily realized.
-
 <p align="center">
 <img src="https://github.com/tablechatlabs/.github/blob/main/screenshots/g-chatting.png" />
 </p>
