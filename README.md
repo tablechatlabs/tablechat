@@ -33,6 +33,5 @@ TableChat provides users the most needed product capabilities in database operat
 
 
 ## Download and Contact us
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Caution!** <br>
-As our software is still buiding, you can **try free** by contact us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">&nbsp;[Twitter@RogerWoods](https://twitter.com/roger_woods_go)  &nbsp;<img src="https://user-images.githubusercontent.com/4312068/283023545-113ecfec-4c65-4c32-9a07-e816cf062207.png">&nbsp;[Discord@tablechat](https://discord.gg/6nhCmcNMhd) 
+As our beta version is released, you can **try free** by downloading from our official website:[tablechatai.com](https://tablechatai.com/). And contact us with:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">&nbsp;[Twitter@RogerWoods](https://twitter.com/roger_woods_go)  &nbsp;<img src="https://user-images.githubusercontent.com/4312068/283023545-113ecfec-4c65-4c32-9a07-e816cf062207.png">&nbsp;[Discord@tablechat](https://discord.gg/6nhCmcNMhd) 
 <br>
